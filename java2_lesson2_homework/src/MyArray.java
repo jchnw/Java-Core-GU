@@ -1,8 +1,8 @@
 import java.util.Random;
-import java.util.Scanner;
+
 
 public class MyArray {
-    Scanner scanner = new Scanner(System.in);
+
     private Random rand = new Random();
     String[][] myarray = new String[4][4];
     String[][] myarrayIn = new String[3][3];
